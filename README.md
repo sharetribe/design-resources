@@ -1,10 +1,10 @@
 # Sharetribe's Design Resources
 
-Sharetribe Web Template (SWT) designs are available as Sketch files. Speed up your process by using the design files as the basis for customizing the existing marketplace design or completely create your own. 
+The Sharetribe Web Template designs are available as Sketch files. Speed up your process by using the design files as the basis for customizing the existing marketplace design or completely create your own. 
 
 ## Variations
 
-SWT supports multiple transaction processes and layout options that slightly differ from each other in UI & UX. To swap between options, expand the "⚠️ VARIATIONS" folder and toggle folders according to your preferred marketplace configurations and layouts. 
+The template supports multiple transaction processes and layout options that slightly differ from each other in UI & UX. To swap between options, expand the "⚠️ VARIATIONS" folder and toggle folders according to your preferred marketplace configurations and layouts. 
 
 ## Good-to-know
 
