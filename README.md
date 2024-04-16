@@ -1,6 +1,6 @@
 # Sharetribe's Design Resources
 
-The Sharetribe Web Template designs are available as Sketch files. Speed up your process by using the design files as the basis for customizing the existing marketplace design or completely create your own. 
+The Sharetribe Web Template designs are available as Sketch and Figma files. Speed up your process by using the design files as the basis for customizing the existing marketplace design or completely create your own. 
 
 ## Variations
 
@@ -8,7 +8,8 @@ The template supports multiple transaction processes and layout options that sli
 
 ## Good-to-know
 
-- .Sketch file format: The design files are built in Sketch. The files can be opened in most common UI Design apps such as Sketch, Figma and Adobe XD. 
+- .Sketch file format: The design files are built in Sketch. The files can be opened in most common UI Design apps such as Sketch, Figma and Adobe XD.
+- .fig file format: The design files are built in Sketch, imported to Figma and exported as a .fig file.
 - Open-sourced font: The design files have open-sourced font, Inter, as embedded font. 
 - Components and styles: The design files are composed of multiple Components in Sketch. Components can be edited globally and overwritten locally. Typography and color scheme has been added as styles, which can be utilized in global and local Components. 
 
