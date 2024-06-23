@@ -16,6 +16,7 @@ The template supports multiple transaction processes and layout options that dif
 - Inter Font: https://fonts.google.com/specimen/Inter
 - The SF Pro font: https://developer.apple.com/fonts/
 - How Sketch Components work: https://www.sketch.com/docs/designing/the-interface/the-components-view/
+- Find a designer.  Hire a verified designer with Sharetribe experience from the [Expert Network](https://www.sharetribe.com/experts/).
 
 ## Feedback and improvements
 
