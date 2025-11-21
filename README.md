@@ -12,7 +12,7 @@ The template supports multiple transaction processes and layout options that dif
 - Components and styles: The design files are composed of multiple components. You can edit components globally and overwrite them locally. Typography and color schemes are defined as styles that you can use for global and local components. 
 
 ## Resources
-- Sharetribe Design Toolkit: https://www.sharetribe.com/docs/design-toolkit/
+- Sharetribe Design Toolkit: https://www.sharetribe.com/docs/introduction/design-files/
 - Inter Font: https://fonts.google.com/specimen/Inter
 - The SF Pro font: https://developer.apple.com/fonts/
 - How Sketch Components work: https://www.sketch.com/docs/designing/the-interface/the-components-view/
