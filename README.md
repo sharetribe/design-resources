@@ -1,3 +1,7 @@
+THIS REPOSITORY IS NOW ARCHIVED AND IT'S CONTENT DEPRECATED.
+
+FIND THE LATEST DEISGN FILES FOR FIGMA AT https://www.sharetribe.com/docs/introduction/design-files/.
+
 # Sharetribe's Design Resources
 
 The Sharetribe Web Template designs are available as Sketch and Figma files. You can speed up your process by using the design files to customize the existing marketplace design or use it as a base to create your own. 
